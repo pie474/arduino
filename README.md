@@ -12,3 +12,7 @@ Uses a PIR sensor, text-to-speech module, along with a hacked nerf gun (servo mo
 # cookie_clicker
 
 Uses 16x2 lcd display to recreated the cookie clicker game
+
+# lcd_calculator
+
+Can do basic calculator using lcd 16x2 display
